@@ -615,5 +615,3 @@ VYOM+ GST Invoice Intelligence is proposed as an end-to-end document intelligenc
 The central goal is not simply to recognize text from invoices, but to transform real-world GST documents into structured and reviewable financial records.
 
 The proposed architecture is modular so that OCR, AI extraction, validation, and document-format processing can be independently improved during the final hackathon.
-
-> **Qualifier scope:** This repository is a technical proposal for the qualifier round. The final implementation will be developed during the final hackathon if the project proceeds to that stage.
